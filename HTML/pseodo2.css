@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: o;
+}
+
+li:nth-last-child(2) {
+    color: red;
+}
+
+/* span:first-of-type {color: red;}
+
+p:first-of-type {
+    color: blue;
+} */
+
+/* .container :not(.excluido) {
+    color: red;
+} */

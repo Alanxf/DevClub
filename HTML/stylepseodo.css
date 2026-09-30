@@ -1,0 +1,71 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* input {
+    border: 1px solid red;
+    color: blue;
+}
+
+input::placeholder {
+    color: yellow;
+}
+
+p {
+    color: dodgerblue;
+}
+
+p::first-letter {
+    color: aquamarine;
+}
+
+p::first-line {
+    color: brown;
+} */
+
+/* .cor {
+    color: chartreuse;
+} */
+
+/* a {
+    color: red;
+}
+
+a::before {
+    content: "@@";
+    color: blue;
+}
+
+a::after {
+    content: "##";
+    color: crimson;
+} */
+
+/* a::after {
+    color: cadetblue;
+} */
+
+/* a:visited {
+    color: red;
+}
+
+p:hover {
+    color: aqua;
+} */
+
+/* input:read-only {
+    border: 1px solid blanchedalmond;
+    outline: none;
+} */
+
+.container {
+    height: 100px;
+    width: 100px;
+    background: red;
+}
+
+.container:empty {
+    background: blue;
+}
